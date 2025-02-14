@@ -1,2 +1,5 @@
-static/
-
+static/admin
+venv
+__pycache__
+db.sqlite3
+env.py
